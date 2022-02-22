@@ -1,3 +1,5 @@
-/node_module
+/node_modules
 
-.yarn.loc
+yarn.loc
+node_modules
+
